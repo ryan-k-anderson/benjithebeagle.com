@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+    box-sizing:border-box;
+}
+
+#youtube{
+    display: flex;
+    justify-content: space-evenly;
+    
+}
+.youtube__about{
+    margin-left: 25px;
+}
